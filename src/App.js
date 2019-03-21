@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Shop from './Shop'; 
 
-import firebase from .env;  
 
 
 class App extends Component {

@@ -14,7 +14,7 @@ export default class Shop extends Component {
   }
 componentDidMount(){
     console.log(this.state)
-
+    
 }
 
   render(){
